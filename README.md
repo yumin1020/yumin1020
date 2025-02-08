@@ -5,8 +5,9 @@
 - 💻 Interested in **Backend Development, Algorithms, and Game Development**  
 - 🌱 Currently learning **Spring, JUnit, and Algorithms**  
 - 🎮 Making a game where characters and monsters battle!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumin1020&layout=compact)
-[![Solved.ac
+
+## 📫 Contact Me  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yumin1020)
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeoy0909)](https://solved.ac/yeoy0909)
 
 <!--
