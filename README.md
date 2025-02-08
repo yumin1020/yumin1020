@@ -1,5 +1,4 @@
 # 👋 Hi there! I'm Yeo You Min
-![Banner Image](https://your-image-url.com)
 ## 🚀 About Me  
 - 🎓 Studying **Computer Science at Hankuk University of Foreign Studies**  
 - 💻 Interested in **Algorithms**  
