@@ -1,4 +1,10 @@
-🔭 Hello, I am attending the computer engineering department at Hankuk University of Foreign Studies.\
+# 👋 Hi there! I'm [Yeo You Min]
+![Banner Image](https://your-image-url.com)
+## 🚀 About Me  
+- 🎓 Studying **[Your Major]**  
+- 💻 Interested in **Backend Development, Algorithms, and Game Development**  
+- 🌱 Currently learning **Spring, JUnit, and Algorithms**  
+- 🎮 Making a game where characters and monsters battle!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumin1020&layout=compact)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeoy0909)](https://solved.ac/yeoy0909)
