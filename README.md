@@ -1,4 +1,5 @@
-🔭 Hello, I am attending the computer engineering department at Hankuk University of Foreign Studies.
+🔭 Hello, I am attending the computer engineering department at Hankuk University of Foreign Studies.\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumin1020=compact)
 <!--
 **yumin1020/yumin1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
