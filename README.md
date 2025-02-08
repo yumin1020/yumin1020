@@ -1,6 +1,6 @@
 🔭 Hello, I am attending the computer engineering department at Hankuk University of Foreign Studies.\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumin1020&layout=compact)
-[![https://solved.ac/profile/yeoy0909](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{yeoy0909})
 
 <!--
 **yumin1020/yumin1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
