@@ -15,8 +15,7 @@
 
 ## 📊 Stats  
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeoy0909)](https://solved.ac/yeoy0909)  
-<img src="http://mazandi.herokuapp.com/api?handle={yeoy0909}&theme=warm"/>  
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeoy0909)](https://solved.ac/yeoy0909)  <img src="http://mazandi.herokuapp.com/api?handle={yeoy0909}&theme=warm"/>  
 <!--
 **yumin1020/yumin1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
