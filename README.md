@@ -1,4 +1,4 @@
-🌱 I’m currently learning Hankuk University of Foreign Studies
+🌱 Hi
 
 <!--
 **yumin1020/yumin1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
