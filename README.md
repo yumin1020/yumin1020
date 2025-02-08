@@ -13,7 +13,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 📊 Stats  
+## 📊 BOJ Stats  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeoy0909)](https://solved.ac/yeoy0909)  <img src="http://mazandi.herokuapp.com/api?handle=yeoy0909&theme=warm"/>  
 <!--
