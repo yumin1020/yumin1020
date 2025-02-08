@@ -1,10 +1,9 @@
-# 👋 Hi there! I'm [Yeo You Min]
+# 👋 Hi there! I'm Yeo You Min
 ![Banner Image](https://your-image-url.com)
 ## 🚀 About Me  
-- 🎓 Studying **[Your Major]**  
-- 💻 Interested in **Backend Development, Algorithms, and Game Development**  
-- 🌱 Currently learning **Spring, JUnit, and Algorithms**  
-- 🎮 Making a game where characters and monsters battle!
+- 🎓 Studying **Computer Science at Hankuk University of Foreign Studies**  
+- 💻 Interested in **Algorithms**  
+- 🌱 Currently learning **Algorithms**  
 
 ## 📫 Contact Me  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yumin1020)
