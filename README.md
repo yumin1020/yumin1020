@@ -19,4 +19,3 @@
 
 ## 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumin1020)](https://github.com/yumin1020/github-readme-stats)
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=yumin1020&theme=github&hide_border=true)
