@@ -16,7 +16,7 @@
 ## 📊 BOJ Stats  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeoy0909)](https://solved.ac/yeoy0909)  <img src="http://mazandi.herokuapp.com/api?handle=yeoy0909&theme=warm"/>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoy0909)](https://github.com/yeoy0909/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumin1020)](https://github.com/yumin1020/github-readme-stats)
 <!--
 **yumin1020/yumin1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
