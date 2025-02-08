@@ -16,7 +16,7 @@
 ## 📊 Stats  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeoy0909)](https://solved.ac/yeoy0909)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumin1020&layout=compact&theme=radical)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=your-baekjoon-yeoy0909)](https://solved.ac/your-baekjoon-yeoy0909)   
 <!--
 **yumin1020/yumin1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
