@@ -1,8 +1,6 @@
 # 👋 Hi there! I'm Yeo You Min
 ## 🚀 About Me  
 - 🎓 Studying **Computer Science at Hankuk University of Foreign Studies**  
-- 💻 Interested in **Backend Development, Algorithms**  
-- 🌱 Currently learning **Java and Algorithms**  
 
 ## 📫 Contact Me  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yumin1020)
